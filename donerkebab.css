@@ -1,0 +1,26 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+h1 {
+    text-align: center;
+    color: brown;
+    font-size: 30px;
+}
+h2 {
+    color: lightcoral;
+    font-size: 18px;
+}
+
+h3 {
+    color: brown;
+    font-size: 25px;
+}
+.grocery {
+    font-size: 20px;
+    text-align: center;
+    
+}
+.receipe {
+    font-size: 20px;
+}

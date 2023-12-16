@@ -1,0 +1,35 @@
+body {background-color: lightgoldenrodyellow;}
+
+h1 {font-size: 30px;
+    text-align: center;
+    color: brown;
+}
+
+h2 {font-size: 18px;
+    text-align: center;
+    color: lightcoral;
+}
+
+h3 {
+    font-size: 23px;
+    color: brown;
+}
+
+.center {
+    
+    font-size: 20px;
+}
+.left {
+    font-size: 20px;
+}
+h4 {
+    font-size: 25px;
+    color: brown;
+}
+#font {
+    font-size: 20px;
+}
+#image {
+    align-items: center;
+    display: flex;
+}

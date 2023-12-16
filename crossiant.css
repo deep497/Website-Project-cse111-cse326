@@ -1,0 +1,40 @@
+body {background-color: lightgoldenrodyellow;}
+
+h1 {font-size: 50px;
+    text-decoration: dashed;
+    text-align: center;
+    color: brown;
+}
+
+h2 {font-size: 45px;
+    text-align: center;
+    color: brown;
+}
+
+h3 {text-decoration: dashed;
+    font-size: 40px;
+    
+    color: brown;
+}
+
+h4 { font-size: 40px;
+    color: brown;
+}
+
+.b {
+    font-size: 40px;
+    text-align: center;
+    background-color: lightcyan;
+    height: fit-content;
+    width: fit-content;
+    color: green;
+}
+
+.a {
+    font-size: 40px;
+    text-align: center;
+}
+
+img {float: center;
+width: 450px;
+height: 450px;}

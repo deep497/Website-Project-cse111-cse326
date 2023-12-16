@@ -1,0 +1,62 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+
+#header {
+    color: brown;
+    background-color:lightcyan;
+
+    text-decoration: dashed;
+    text-align: center;
+    font-size: 20px;
+}
+#description {
+    
+    font-size: 18px;
+    text-align: center;
+    background-color: burlywood;
+    color: crimson;
+    
+}
+img {
+    height: 250px;
+    width: 550px;
+    float: left;
+    
+}
+#meal {
+    align-items: center;
+    font-size: 15px;
+    display: flex;
+    margin: 100px;
+    background-color: lightcyan;
+    width: fit-content;
+}
+.a {
+    
+    margin-left: 50px;
+    
+    
+    height: fit-content;
+    width: fit-content;
+    font-size: 30px;
+    color: brown;
+}
+.b {
+    
+    width: 200px;
+    height: fit-content; 
+    margin-left: 600px;
+    font-size: 30px;
+    color:brown;
+    
+}
+.c {
+    margin-left: 610px;
+    
+    height: fit-content;
+    width: fit-content;
+    font-size: 30px;
+    color: brown;
+}

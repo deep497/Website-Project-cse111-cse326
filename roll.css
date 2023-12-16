@@ -1,0 +1,20 @@
+body {background-color: lightgoldenrodyellow;}
+h1 {
+    font-size: 35px;
+    text-align: center;
+    color: brown;
+}
+
+h3 {
+    
+    font-size: 30px;
+    color: brown;
+}
+#description {
+    display: flex;
+    align-items: center;
+    
+}
+h2 {
+    color: brown;
+}

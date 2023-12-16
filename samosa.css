@@ -1,0 +1,41 @@
+body::before{
+    content:"";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-image: url("https://www.cookwithmanali.com/wp-content/uploads/2019/08/Homemade-Samosa.jpg");
+    background-size: cover;
+    background-repeat: repeat-y;
+    opacity: 0.2;
+}
+
+
+
+
+#describe {
+    text-align: center;
+    background-color: lightcyan;
+}
+.top {
+    font-size: 40px;
+    color: brown;
+    text-align: center;
+}
+.line {
+    font-size: 35px;
+    color:lightcoral;
+    text-align: center;
+}
+
+.b {
+    font-size: 28px;
+    color: brown;
+}
+h4 {
+    font-size: 35px;
+}
+h5 {font-size: 35px;}
+.c {font-size: 30px;}
+.d {font-size: 30px;}
